@@ -46,4 +46,6 @@
 #include "esp32dev.h"
 #elif ELECROW
 #include "elecrow-esp32-24B.h"
+#elif JC3248W535
+#include "jc3248w535.h"
 #endif
